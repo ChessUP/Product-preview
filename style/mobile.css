@@ -137,6 +137,17 @@ a.cart {
   text-decoration: none;
 }
 
+a.cart:hover {
+  background-color: var(--Green700);
+}
+
+.icon {
+  width: 1.2em;
+  height: 1.2em;
+  padding: 1em;
+
+}
+
 .attribution{
   margin-top: 1em;
   font-size: .7em;
